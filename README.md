@@ -8,9 +8,10 @@ Aplikasi ini dibuat untuk memenuhi tugas uts  pada mata kuliah Pemrograman Mobil
 ## 📱 Tampilan Aplikasi
 
 <p align="center">
-  <img src="docs/" width="45%" />
-  <img src="docs/" width="45%" />
-  <img src="docs/Screenshot 2025-11-08 211421.png" width="45%" />
+  <img src="https://github.com/demasnrzmn/game_app_uts/blob/main/assets/images/WhatsApp%20Image%202025-11-20%20at%2009.59.59_1b14c68a.jpg" width="45%" />
+  <img src="https://github.com/demasnrzmn/game_app_uts/blob/main/assets/images/WhatsApp%20Image%202025-11-20%20at%2009.59.58_c8936fc2.jpg width="45%" />
+  <img src="https://github.com/demasnrzmn/game_app_uts/blob/main/assets/images/WhatsApp%20Image%202025-11-20%20at%2009.59.58_67638547.jpg" width="45%" />
+  <img src="https://github.com/demasnrzmn/game_app_uts/blob/main/assets/images/WhatsApp%20Image%202025-11-20%20at%2009.59.58_4007e2c8.jpg" width="45%" />
 </p>
 
 ---
