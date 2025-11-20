@@ -20,7 +20,7 @@ Aplikasi ini dibuat untuk memenuhi tugas uts  pada mata kuliah Pemrograman Mobil
 
 ## 📄 Dokumentasi Aplikasi
 
-📁 [PDF Laporan](docs/ScreenshotFull.pdf)  
+📁 [PDF Laporan](docs/)  
 🌐 [Video dokumentasi](https://drive.google.com/file/d/1HQq_5H58tJtZbnwAefeAHNFZgBAHJMa_/view?usp=drive_link)
 
 
