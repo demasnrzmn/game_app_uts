@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-11-20 at 09 59 59_1b14c68a](https://github.com/user-attachments/assets/401b4706-4e57-40f2-92ee-e18ff4f88d5a)# 🎮 Game App
+# 🎮 Game App
 
 Aplikasi ini dibuat untuk memenuhi tugas uts  pada mata kuliah Pemrograman Mobile 2 
 
