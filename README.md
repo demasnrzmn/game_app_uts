@@ -1,6 +1,6 @@
-# 🎮 Game App
+# 🎮 Game Store App
 
-Aplikasi ini dibuat untuk memenuhi tugas uts  pada mata kuliah Pemrograman Mobile 2 
+Aplikasi ini dibuat untuk memenuhi tugas project uts  pada mata kuliah Pemrograman Mobile 2 
 
 ---
 
