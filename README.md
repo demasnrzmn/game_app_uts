@@ -8,9 +8,8 @@ Aplikasi ini dibuat untuk memenuhi tugas uts  pada mata kuliah Pemrograman Mobil
 ## 📱 Tampilan Aplikasi
 
 <p align="center">
-  <img src="docs/![WhatsApp Image 2025-11-20 at 09 59 59_1b14c68a](https://github.com/user-attachments/assets/80aba7f6-32a7-4d0a-8450-1697034afbf5)
-" width="45%" />
-  <img src="docs/Screenshot_20251108-202903.jpg" width="45%" />
+  <img src="docs/" width="45%" />
+  <img src="docs/![WhatsApp Image 2025-11-20 at 09 59 59_1b14c68a](https://github.com/user-attachments/assets/a5fb4129-2f98-4b21-bb16-8ebfa324a6bb)" width="45%" />
   <img src="docs/Screenshot 2025-11-08 211421.png" width="45%" />
 </p>
 
