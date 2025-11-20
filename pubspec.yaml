@@ -1,0 +1,35 @@
+name: games
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.5.1
+  font_awesome_flutter: ^10.7.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/badland.jpeg
+    - assets/images/brawl_stars.jpg
+    - assets/images/clash_royale.jpg
+    - assets/images/efootbal.png
+    - assets/images/pubg.jpg
+    - assets/images/badland_brawl.jpg
+    - assets/images/controller.png
+    - assets/images/mobile_legends.jpg
+    - assets/images/roblox.jpg
+    - assets/images/clash_of_clans.jpg
+    - assets/images/block_blast.jpg
+
+   
